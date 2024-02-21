@@ -1,0 +1,47 @@
+.background-div {
+  background-color: black;
+}
+.border-bottom:hover {
+  border-bottom: 1px solid blue;
+  transition: width 0.2s;
+}
+.logo span {
+  color: rgb(1, 161, 232);
+}
+.vortex {
+  color: rgb(1, 161, 232);
+}
+.logo img {
+  width: 70px;
+  height: 70px;
+}
+
+.span {
+  color: rgb(1, 161, 232);
+}
+.logo {
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.padding-top {
+  padding-top: 100px;
+}
+.hover-color:hover {
+  color: rgb(1, 161, 232);
+}
+/* .software img {
+  width: 2500px;
+  height: 425px;
+} */
+
+.flex-control {
+  display: flex;
+
+  gap: 10px;
+}
+.software {
+  display: flex;
+  justify-content: center;
+}
